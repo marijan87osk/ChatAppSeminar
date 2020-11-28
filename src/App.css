@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #343333;
+}
+
+.App-header {
+  background-color: #2a0324;
+  overflow: visible;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
